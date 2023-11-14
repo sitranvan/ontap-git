@@ -45,5 +45,7 @@ bool ktSoHoanThien(int n) {
 
 int main() {
     
+	// Nhanh 1
+	cout<<"Hello nhanh 1";
     return 0;
 }
