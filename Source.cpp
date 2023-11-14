@@ -50,5 +50,8 @@ int main() {
 	
 	// Nhanh 2
 	cout<<"Hello nhanh 2";
+	
+	// xung dot master
+	cout<<"xung dot master";
     return 0;
 }
