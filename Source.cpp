@@ -45,5 +45,10 @@ bool ktSoHoanThien(int n) {
 
 int main() {
     
+	// Nhanh 1
+	cout<<"Hello nhanh 1";
+	
+	// Nhanh 2
+	cout<<"Hello nhanh 2";
     return 0;
 }
