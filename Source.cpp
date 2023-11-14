@@ -23,6 +23,15 @@ bool ktNguyenTo(int n) {
 	return true;
 }
 
+// Kiểm tra số chính phương
+bool laSoChinhPhuong(int n) {
+    if (n < 0) {
+        return false;
+    }
+    int sqrtN = sqrt(n);
+    return sqrtN * sqrtN == n;
+}
+
 int main() {
     
     return 0;
