@@ -51,7 +51,12 @@ int main() {
 	// Nhanh 2
 	cout<<"Hello nhanh 2";
 	
+<<<<<<< HEAD
 	// xung dot master
 	cout<<"xung dot master";
+=======
+	//xung dot1
+	cout<<"Demo xung dot";
+>>>>>>> xungdot1
     return 0;
 }
